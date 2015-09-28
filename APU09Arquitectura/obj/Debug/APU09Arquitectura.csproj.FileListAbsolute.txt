@@ -1,0 +1,379 @@
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\bin\Debug\APU09Arquitectura.exe.config
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\bin\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\bin\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\bin\Debug\ExcelLibrary.dll
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\bin\Debug\InputKey.dll
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Maker.AgregarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Maker.AgregarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Maker.APU.resources
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Maker.EditarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Maker.EditarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Maker.EliminarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Maker.Form1.resources
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Maker.IniciarSesion.resources
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Maker.ManodeObra.resources
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Maker.Materiales.resources
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Maker.NuevoUsuario.resources
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Arquitectura.Properties.Resources.resources
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Maker.VistaPrevia.resources
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Arquitectura.csproj.GenerateResource.Cache
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\bin\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\bin\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Arquitectura.csprojResolveAssemblyReference.cache
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Maker.EliminarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Maker.AgregarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Maker.EditarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Maker\APU09Maker\obj\Debug\APU09Maker.EliminarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\bin\Debug\APU09Arquitectura.exe.config
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Arquitectura.csprojResolveAssemblyReference.cache
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Maker.AgregarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Maker.AgregarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Maker.AgregarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Maker.APU.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Maker.EditarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Maker.EditarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Maker.EditarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Maker.EliminarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Maker.EliminarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Maker.EliminarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Maker.Form1.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Maker.IniciarSesion.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Maker.NuevoUsuario.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Arquitectura.Properties.Resources.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Maker.VistaPrevia.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Arquitectura.csproj.GenerateResource.Cache
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\bin\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\bin\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\bin\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\bin\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\bin\Debug\ExcelLibrary.dll
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\bin\Debug\InputKey.dll
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Arquitectura.Presupuestos.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Arquitectura.IniciarSesionAdmon.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 presupuestos\APU09Maker\obj\Debug\APU09Arquitectura.DatosPpales.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\bin\Debug\APU09Arquitectura.exe.config
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\bin\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\bin\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\bin\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\bin\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\bin\Debug\ExcelLibrary.dll
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\bin\Debug\InputKey.dll
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Arquitectura.csprojResolveAssemblyReference.cache
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Maker.AgregarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Maker.AgregarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Maker.AgregarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Maker.APU.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Arquitectura.DatosPpales.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Maker.EditarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Maker.EditarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Maker.EditarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Maker.EliminarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Maker.EliminarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Maker.EliminarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Maker.Form1.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Arquitectura.IniciarSesionAdmon.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Maker.IniciarSesion.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Maker.NuevoUsuario.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Arquitectura.Presupuestos.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Arquitectura.Properties.Resources.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Maker.VistaPrevia.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Arquitectura.csproj.GenerateResource.Cache
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv2 autocompletar\APU09Maker\obj\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\bin\Debug\APU09Arquitectura.exe.config
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\bin\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\bin\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\bin\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\bin\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\bin\Debug\ExcelLibrary.dll
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\bin\Debug\InputKey.dll
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Arquitectura.csprojResolveAssemblyReference.cache
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Maker.AgregarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Maker.AgregarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Maker.AgregarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Maker.APU.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Arquitectura.DatosPpales.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Maker.EditarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Maker.EditarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Maker.EditarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Maker.EliminarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Maker.EliminarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Maker.EliminarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Maker.Form1.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Arquitectura.IniciarSesionAdmon.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Maker.IniciarSesion.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Maker.NuevoUsuario.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Arquitectura.Presupuestos.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Arquitectura.Properties.Resources.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Maker.VistaPrevia.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Arquitectura.csproj.GenerateResource.Cache
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones\APU09Maker\obj\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\bin\Debug\APU09Arquitectura.exe.config
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\bin\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\bin\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\bin\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\bin\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\bin\Debug\ExcelLibrary.dll
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\bin\Debug\InputKey.dll
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Arquitectura.csprojResolveAssemblyReference.cache
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Maker.AgregarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Maker.AgregarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Maker.AgregarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Arquitectura.DatosPpales.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Maker.EditarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Maker.EditarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Maker.EditarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Maker.EliminarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Maker.EliminarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Maker.EliminarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Maker.Form1.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Arquitectura.IniciarSesionAdmon.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Maker.IniciarSesion.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Maker.NuevoUsuario.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Arquitectura.Presupuestos.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Arquitectura.Properties.Resources.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Maker.VistaPrevia.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Arquitectura.csproj.GenerateResource.Cache
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones - copia\APU09Maker\obj\Debug\APU09Maker.AnPrUn.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\bin\Debug\APU09Arquitectura.exe.config
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Arquitectura.csprojResolveAssemblyReference.cache
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Maker.AgregarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Maker.AgregarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Maker.AgregarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Maker.AnPrUn.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Arquitectura.DatosPpales.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Maker.EditarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Maker.EditarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Maker.EditarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Maker.EliminarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Maker.EliminarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Maker.EliminarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Maker.Form1.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Arquitectura.IniciarSesionAdmon.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Maker.IniciarSesion.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Maker.NuevoUsuario.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Arquitectura.Presupuestos.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Arquitectura.Properties.Resources.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Maker.VistaPrevia.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Arquitectura.csproj.GenerateResource.Cache
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\bin\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\bin\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\bin\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\bin\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\bin\Debug\ExcelLibrary.dll
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\bin\Debug\InputKey.dll
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv2 columna botones usuario\APU09Maker\obj\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\bin\Debug\APU09Arquitectura.exe.config
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\bin\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\bin\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\bin\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\bin\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\bin\Debug\ExcelLibrary.dll
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\bin\Debug\InputKey.dll
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Arquitectura.csprojResolveAssemblyReference.cache
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Maker.AgregarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Maker.AgregarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Maker.AgregarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Maker.AnPrUn.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Arquitectura.DatosPpales.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Maker.EditarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Maker.EditarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Maker.EditarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Maker.EliminarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Maker.EliminarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Maker.EliminarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Maker.Form1.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Arquitectura.IniciarSesionAdmon.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Maker.IniciarSesion.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Maker.NuevoUsuario.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Arquitectura.Presupuestos.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Arquitectura.Properties.Resources.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Maker.VistaPrevia.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Arquitectura.csproj.GenerateResource.Cache
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Maker\obj\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\bin\Debug\APU09Arquitectura.exe.config
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\bin\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\bin\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\bin\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\bin\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\bin\Debug\ExcelLibrary.dll
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\bin\Debug\InputKey.dll
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Arquitectura.csprojResolveAssemblyReference.cache
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Maker.AgregarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Maker.AgregarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Maker.AgregarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Maker.AnPrUn.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Arquitectura.DatosPpales.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Maker.EditarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Maker.EditarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Maker.EditarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Maker.EliminarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Maker.EliminarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Maker.EliminarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Maker.Form1.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Arquitectura.IniciarSesionAdmon.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Maker.IniciarSesion.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Maker.NuevoUsuario.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Arquitectura.Presupuestos.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Arquitectura.Properties.Resources.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Maker.VistaPrevia.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Arquitectura.csproj.GenerateResource.Cache
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Arquitectura.AgregarTarjeta.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv7 bordes\APU09Arquitectura\obj\Debug\APU09Arquitectura.AbrirTarjeta.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\bin\Debug\APU09Arquitectura.exe.config
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Arquitectura.csprojResolveAssemblyReference.cache
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Arquitectura.AbrirTarjeta.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Maker.AgregarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Maker.AgregarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Maker.AgregarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Arquitectura.AgregarTarjeta.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Maker.AnPrUn.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Arquitectura.DatosPpales.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Maker.EditarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Maker.EditarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Maker.EditarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Maker.EliminarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Maker.EliminarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Maker.EliminarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Maker.Form1.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Arquitectura.IniciarSesionAdmon.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Maker.IniciarSesion.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Maker.NuevoUsuario.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Arquitectura.Presupuestos.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Arquitectura.Properties.Resources.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Maker.VistaPrevia.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Arquitectura.csproj.GenerateResource.Cache
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\bin\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\bin\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\bin\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\bin\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\bin\Debug\InputKey.dll
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv8\APU09Arquitectura\obj\Debug\APU09Arquitectura.Agregar.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\bin\Debug\APU09Arquitectura.exe.config
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\bin\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\bin\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\bin\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\bin\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\bin\Debug\InputKey.dll
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Arquitectura.csprojResolveAssemblyReference.cache
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Arquitectura.AbrirTarjeta.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Arquitectura.Agregar.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Maker.AgregarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Maker.AgregarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Maker.AgregarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Arquitectura.AgregarTarjeta.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Maker.AnPrUn.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Arquitectura.DatosPpales.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Maker.EditarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Maker.EditarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Maker.EditarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Maker.EliminarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Maker.EliminarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Maker.EliminarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Maker.Form1.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Arquitectura.IniciarSesionAdmon.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Maker.IniciarSesion.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Maker.NuevoUsuario.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Arquitectura.Presupuestos.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Arquitectura.Properties.Resources.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Maker.VistaPrevia.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Arquitectura.csproj.GenerateResource.Cache
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv9\APU09Arquitectura\obj\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\bin\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\bin\Debug\APU09Arquitectura.exe.config
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\bin\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\bin\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.AbrirTarjeta.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.Agregar.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.AgregarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.AgregarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.AgregarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.AgregarTarjeta.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.AnPrUn.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.DatosPpales.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.EditarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.EditarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.EditarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.EliminarEQ.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.EliminarMano.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.EliminarMaterial.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.Form1.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.IniciarSesionAdmon.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.IniciarSesion.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.NuevoUsuario.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.Presupuestos.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.Properties.Resources.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.VistaPrevia.resources
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.csproj.GenerateResource.Cache
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.exe.manifest
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.application
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.exe
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\bin\Debug\APU09Arquitectura.pdb
+C:\Users\ErikaDL\Desktop\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.csprojResolveAssemblyReference.cache
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\bin\Debug\APU09Arquitectura.exe.config
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.exe
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.pdb
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\bin\Debug\APU09Arquitectura.exe.manifest
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\bin\Debug\APU09Arquitectura.application
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\bin\Debug\APU09Arquitectura.exe
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\bin\Debug\APU09Arquitectura.pdb
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.csprojResolveAssemblyReference.cache
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.AbrirTarjeta.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.Agregar.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.AgregarEQ.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.AgregarMano.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.AgregarMaterial.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.AgregarTarjeta.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.AnPrUn.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.DatosPpales.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.EditarEQ.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.EditarMano.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.EditarMaterial.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.EliminarEQ.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.EliminarMano.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.EliminarMaterial.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.Form1.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.IniciarSesionAdmon.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.IniciarSesion.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.NuevoUsuario.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.Presupuestos.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.Properties.Resources.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Maker.VistaPrevia.resources
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.csproj.GenerateResource.Cache
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.exe.manifest
+F:\Personal Data\My Documents\ERIKA\Escritorio\APU09Makerv10\APU09Arquitectura\obj\Debug\APU09Arquitectura.application
